@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏡I’m a Full-Stack web developer Who lives inside a house called React where i live with the JSX,<br>🪴Node is my backyard where I play with the MongoDB,Express, and EJS.<br>💊Also got myself into the Mirth connect where i hangout with the Postgres.
+🏡I’m a Full-Stack web developer Who lives inside a house called <b>React</b> where <b>JSX</b> my room partner,<br>🪴<b>Node</b> is my backyard where I play with the <b>MongoDB</b>,<b>Express</b>, and <b>EJS</b>.<br>💊Also got myself into the <b>Mirth connect</b> where i hangout with the <b>Postgres</b>.
 
 
 ## 🌐 Socials:
